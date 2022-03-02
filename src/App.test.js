@@ -12,4 +12,4 @@ test('renders learn react link', () => {
   const app = findByTestAttr(wrapper, 'component-app')
 
   expect(app.length).toBe(1)
-});
+})
